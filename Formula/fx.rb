@@ -3,7 +3,7 @@ class Fx < Formula
   homepage "https://github.com/metrue/fx"
   url "https://github.com/metrue/fx/releases/download/v0.0.0/fx_0.0.0_macOS_64-bit.tar.gz"
   version "0.0.0"
-  sha256 "2c82fb38b2efb3a1c3b7934e3368b4899ae25ba8a5c0645095fa9b4ee5101689"
+  sha256 "22d6acf62bf8a2bfe348b66dbffe1a32d8878d63f43ccc4574d0bf29acc70041"
 
   depends_on "git"depends_on "zsh"
 
