@@ -5,7 +5,8 @@ class Fx < Formula
   version "0.0.0"
   sha256 "22d6acf62bf8a2bfe348b66dbffe1a32d8878d63f43ccc4574d0bf29acc70041"
 
-  depends_on "git"depends_on "zsh"
+  depends_on "git"
+  depends_on "zsh"
 
   def install
     bin.install "fx"
