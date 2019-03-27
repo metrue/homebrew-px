@@ -2,9 +2,9 @@
 class Fx < Formula
   desc "fx, a simple but powerful Function as a Service build tools"
   homepage "https://github.com/metrue/fx"
-  url "https://github.com/metrue/fx/releases/download/0.3.2-alpha.32f4fab/fx_0.3.2-alpha.32f4fab_macOS_64-bit.tar.gz"
-  version "0.3.2-alpha.32f4fab"
-  sha256 "62e30fd6e0071fcc757cae9aafdb614c30ae182980bc203b202c4329c4ed2516"
+  url "https://github.com/metrue/fx/releases/download/0.3.2-alpha.295745b/fx_0.3.2-alpha.295745b_macOS_64-bit.tar.gz"
+  version "0.3.2-alpha.295745b"
+  sha256 "b2fa1d6081b5bd89f46eadc90cd2178f38328be479c498226d1ccdf7b17889d7"
 
   def install
     bin.install "fx"
